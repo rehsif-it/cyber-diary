@@ -3,10 +3,10 @@
 
 ### Completed Rooms
 [x] Intro Offensive Security
-##Notes##
+Notes
 - attack systems
 [x] Intro Defensive Security
-##Notes##
+Notes
 -protect and monitoring
 [x] Careers in Cyber
 
