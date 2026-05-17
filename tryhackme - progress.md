@@ -3,10 +3,10 @@
 
 ### Completed Rooms
 [x] Intro Offensive Security
-### Notes
+##Notes##
 - attack systems
 [x] Intro Defensive Security
-### Notes
+##Notes##
 -protect and monitoring
 [x] Careers in Cyber
 
@@ -26,9 +26,7 @@ Defensive security focuses on protection and monitoring.
 
 ### Progress
 [x] What is Networking?
-[ ] Intro to LAN
-### Notes
-      
+[ ] Intro to LAN     
 [ ] OSI Model
 [ ] Packets and Frames
 [ ] Extending Your Network
