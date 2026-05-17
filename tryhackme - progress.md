@@ -3,11 +3,7 @@
 
 ### Completed Rooms
 -[x] Intro Offensive Security
-Notes
-- attack systems
 -[x] Intro Defensive Security
-Notes
--protect and monitoring
 -[x] Careers in Cyber
 
 ### What I Learned
