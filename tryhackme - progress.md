@@ -2,13 +2,13 @@
 ## Intro Cybersecurity — 15/05/2026
 
 ### Completed Rooms
-[x] Intro Offensive Security
+-[x] Intro Offensive Security
 Notes
 - attack systems
-[x] Intro Defensive Security
+-[x] Intro Defensive Security
 Notes
 -protect and monitoring
-[x] Careers in Cyber
+-[x] Careers in Cyber
 
 ### What I Learned
 - Difference between offensive and defensive security
@@ -25,11 +25,11 @@ Defensive security focuses on protection and monitoring.
 ## Network Fundamentals
 
 ### Progress
-[x] What is Networking?
-[ ] Intro to LAN     
-[ ] OSI Model
-[ ] Packets and Frames
-[ ] Extending Your Network
+-[x] What is Networking?
+-[ ] Intro to LAN     
+-[ ] OSI Model
+-[ ] Packets and Frames
+-[ ] Extending Your Network
 
 ### Commands / Terms Learned
 - IP address
