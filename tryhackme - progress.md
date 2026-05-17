@@ -1,7 +1,7 @@
 # rooms progress
 ## Intro Cybersecurity — 15/05/2026
 
-### Completed Rooms
+### Progress
 - [x] Intro Offensive Security
 - [x] Intro Defensive Security
 - [x] Careers in Cyber
