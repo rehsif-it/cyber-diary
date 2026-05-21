@@ -17,7 +17,7 @@ trouver le mots de pas cacher dans les fichiers a l'aide des commandes Linux
 - du
 - file
 
-#commands meaning
+# commands meaning
 - ssh -> secure shell -> connexion et commandes d'un serveur distant
 - -p -> ports
 - cd -> navigation dans les fichiers
