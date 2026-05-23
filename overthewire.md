@@ -1,11 +1,11 @@
 # level progress
-## - [X] level 0 20/05/2026
+## level 0 20/05/2026
 connection en SSH sur VM Linux
 ### commands use
 - ssh
 - -p
 
-## - [X] level 0 -> level 1 20/05/2026 [x]
+## level 0 -> level 1 20/05/2026 [x]
 trouver le mots de pas cacher dans les fichiers a l'aide des commandes Linux
 ### commands use
 - ssh
