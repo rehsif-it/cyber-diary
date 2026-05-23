@@ -1,4 +1,5 @@
-# level progress
+# overthewire learning
+Notes et progression pendant mon parcours OverTheWire
 ## level 0 20/05/2026
 connection en SSH sur VM Linux
 ### commands use
