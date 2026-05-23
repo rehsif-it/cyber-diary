@@ -10,7 +10,7 @@ Connect to bandit server using SSH on a Linux VM
 ssh bandit0@bandit.labs.overthewire.org -p 2220
 ```
 ### Commands Explanation
-```bash
+```txt
 ssh -> remote secure connection
 -p -> specify custom ports
 ```
