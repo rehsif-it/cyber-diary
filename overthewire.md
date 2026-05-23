@@ -1,14 +1,14 @@
-# overthewire learning
-Notes et progression pendant mon parcours OverTheWire
-## level 0 20/05/2026
-connection en SSH sur VM Linux
-### commands use
+# Overthewire Learning
+Notes and progress of overthewire
+## Level 0 20/05/2026
+ssh connection with VM linux
+### Enumerations Used
 - ssh
 - -p
 
 ## level 0 -> level 1 20/05/2026 [x]
-trouver le mots de pas cacher dans les fichiers a l'aide des commandes Linux
-### commands use
+find hidden password inside linux file using enumeration commands
+### Enumeration Used
 - ssh
 - -p
 - cd
@@ -18,7 +18,8 @@ trouver le mots de pas cacher dans les fichiers a l'aide des commandes Linux
 - du
 - file
 
-# commands meaning
+# Enumeration Notes
+'''bash
 - ssh -> secure shell -> connexion et commandes d'un serveur distant
 - -p -> ports
 - cd -> navigation dans les fichiers
@@ -27,3 +28,4 @@ trouver le mots de pas cacher dans les fichiers a l'aide des commandes Linux
 - cat -> lire un documents
 - du -> connaitre la taille du fichier
 - file -> connaitre la nature du fichier
+'''
