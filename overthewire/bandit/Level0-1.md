@@ -19,3 +19,13 @@ find hidden password inside linux file using Linux commands
 - file
 ```
 ### Commands Explenation
+|command|usage|
+|-------|-----|
+|ssh|connect to server|
+|-p|
+|cd|
+|ls|
+|pwd|
+|cat|
+|du|
+|file|
