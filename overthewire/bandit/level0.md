@@ -1,8 +1,8 @@
 # Bandit Level 0 20/05/2026
 ## Goal
-Connect to bandit server using SSH on a Linux VM
+Connect to bandit server using `SSH` on a Linux VM
 ## What I learned
-- Using SSh connections
+- Using `SSH` connections
 - understanding custom ports
 - Basic Linux remote acces
 ## Commands Used
