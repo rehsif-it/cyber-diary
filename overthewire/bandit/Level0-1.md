@@ -7,7 +7,7 @@ find hidden password inside linux file using Linux commands
 - linux file enumerations
 - hidden file discovery
 ```
-### Commands Used
+## Commands Used
 ```bash
 - ssh
 - -p
@@ -18,3 +18,4 @@ find hidden password inside linux file using Linux commands
 - du
 - file
 ```
+### Commands Explenation
